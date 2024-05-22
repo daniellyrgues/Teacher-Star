@@ -1,0 +1,19 @@
+h2{
+    color:yellow;
+}
+
+body{
+    background-color: #E86860;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+
+}
+header{
+border-bottom: 1px solid blue;
+
+}
+
+footer{
+    border-top: 1px solid white;
+}
